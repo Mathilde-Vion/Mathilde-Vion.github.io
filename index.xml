@@ -34,12 +34,14 @@ Figure 1: Un superbe graphique en camembert.
     </item>
     
     <item>
-      <title>My project</title>
+      <title>Artificial intelligence</title>
       <link>/project/example-project/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/example-project/</guid>
-      <description>&lt;p&gt;Here I describe my project using Markdown formatting...&lt;/p&gt;
+      <description>&lt;p&gt;Artificial intelligence (AI) is a really interesting subject because a lot of people think that we will be soon able to develop this amazing technology. People are scared to see machine that can respond like us and are capable to beat us. A lot of science-fiction movies are made from that and descride how humans are feared to see machines can control the whole world.
+But does this really works ?&lt;br /&gt;
+Artificial intelligence works by associating high volumes of data using quick algorithms which allows itself to self-learn automatically from the characteristics of such data. It can successfully understand a human conversation or competing strategic games (like chess) for example.&lt;/p&gt;
 </description>
     </item>
     
